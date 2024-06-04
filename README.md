@@ -17,5 +17,6 @@ cd bashProjects
 # Make the script executable
 chmod +x ping.sh
 
-# Run the script
-./ping.sh
+# Run the script adding your local network address
+
+./ping.sh 192.168.1
