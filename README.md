@@ -1,15 +1,21 @@
-BashProjects
+# bashProjects
 
-I am working on simple bash projects for beginners in the field of cyber security , it would be a great start if you are new to bash 
+Welcome to the `bashProjects` repository! Below are the instructions to clone the repository and run the `ping.sh` script.
 
-1) ping.sh :
-   
-   This scrip allows you to get the Ip addresses of the hosts in your local network
-   
-   To use :
-   
-     git clone https://github.com/cashmerkholo/bashProjects.git
-   
-     chmod +x ping.sh
-   
-     ./ping.sh
+## 🚀 Quick Start
+
+To get started, open your terminal and follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/cashmerkholo/bashProjects.git
+
+# Navigate to the project directory
+cd bashProjects
+
+# Make the script executable
+chmod +x ping.sh
+
+# Run the script
+./ping.sh
+
